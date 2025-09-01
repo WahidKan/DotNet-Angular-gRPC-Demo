@@ -1,0 +1,52 @@
+{
+  "hash": "0301fb10",
+  "configHash": "3a1536c9",
+  "lockfileHash": "56c16eca",
+  "browserHash": "afbbe1b0",
+  "optimized": {
+    "@angular/common": {
+      "src": "../../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "1b4de226",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "689aa7b4",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "c4c4e4b6",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "ea70234d",
+      "needsInterop": false
+    },
+    "grpc-web": {
+      "src": "../../../../../../node_modules/grpc-web/index.js",
+      "file": "grpc-web.js",
+      "fileHash": "cb43f934",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-OKSPL4ZH": {
+      "file": "chunk-OKSPL4ZH.js"
+    },
+    "chunk-RX7OYCNK": {
+      "file": "chunk-RX7OYCNK.js"
+    },
+    "chunk-3MCRXQF4": {
+      "file": "chunk-3MCRXQF4.js"
+    },
+    "chunk-3OV72XIM": {
+      "file": "chunk-3OV72XIM.js"
+    }
+  }
+}
