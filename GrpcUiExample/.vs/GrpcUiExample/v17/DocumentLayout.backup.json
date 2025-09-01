@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Waheed\\source\\repos\\GrpcUiExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D449135C-70ED-47CD-B16F-968A5ABF485B}|GrpcUiExample\\GrpcUiExample.csproj|c:\\users\\waheed\\source\\repos\\grpcuiexample\\grpcuiexample\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D449135C-70ED-47CD-B16F-968A5ABF485B}|GrpcUiExample\\GrpcUiExample.csproj|solutionrelative:grpcuiexample\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D449135C-70ED-47CD-B16F-968A5ABF485B}|GrpcUiExample\\GrpcUiExample.csproj|c:\\users\\waheed\\source\\repos\\grpcuiexample\\grpcuiexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D449135C-70ED-47CD-B16F-968A5ABF485B}|GrpcUiExample\\GrpcUiExample.csproj|solutionrelative:grpcuiexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D449135C-70ED-47CD-B16F-968A5ABF485B}|GrpcUiExample\\GrpcUiExample.csproj|c:\\users\\waheed\\source\\repos\\grpcuiexample\\grpcuiexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D449135C-70ED-47CD-B16F-968A5ABF485B}|GrpcUiExample\\GrpcUiExample.csproj|solutionrelative:grpcuiexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D449135C-70ED-47CD-B16F-968A5ABF485B}|GrpcUiExample\\GrpcUiExample.csproj|c:\\users\\waheed\\source\\repos\\grpcuiexample\\grpcuiexample\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D449135C-70ED-47CD-B16F-968A5ABF485B}|GrpcUiExample\\GrpcUiExample.csproj|solutionrelative:grpcuiexample\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D449135C-70ED-47CD-B16F-968A5ABF485B}|GrpcUiExample\\GrpcUiExample.csproj|c:\\users\\waheed\\source\\repos\\grpcuiexample\\grpcuiexample\\protos\\user.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D449135C-70ED-47CD-B16F-968A5ABF485B}|GrpcUiExample\\GrpcUiExample.csproj|solutionrelative:grpcuiexample\\protos\\user.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D449135C-70ED-47CD-B16F-968A5ABF485B}|GrpcUiExample\\GrpcUiExample.csproj|c:\\users\\waheed\\source\\repos\\grpcuiexample\\grpcuiexample\\grpcuiexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D449135C-70ED-47CD-B16F-968A5ABF485B}|GrpcUiExample\\GrpcUiExample.csproj|solutionrelative:grpcuiexample\\grpcuiexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Waheed\\source\\repos\\GrpcUiExample\\GrpcUiExample\\appsettings.json",
+              "RelativeDocumentMoniker": "GrpcUiExample\\appsettings.json",
+              "ToolTip": "C:\\Users\\Waheed\\source\\repos\\GrpcUiExample\\GrpcUiExample\\appsettings.json",
+              "RelativeToolTip": "GrpcUiExample\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-09T07:20:57.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Waheed\\source\\repos\\GrpcUiExample\\GrpcUiExample\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "GrpcUiExample\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Waheed\\source\\repos\\GrpcUiExample\\GrpcUiExample\\Services\\UserService.cs",
+              "RelativeToolTip": "GrpcUiExample\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T06:13:00.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GrpcUiExample",
+              "DocumentMoniker": "C:\\Users\\Waheed\\source\\repos\\GrpcUiExample\\GrpcUiExample\\GrpcUiExample.csproj",
+              "RelativeDocumentMoniker": "GrpcUiExample\\GrpcUiExample.csproj",
+              "ToolTip": "C:\\Users\\Waheed\\source\\repos\\GrpcUiExample\\GrpcUiExample\\GrpcUiExample.csproj",
+              "RelativeToolTip": "GrpcUiExample\\GrpcUiExample.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-08T06:11:50.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "user.proto",
+              "DocumentMoniker": "C:\\Users\\Waheed\\source\\repos\\GrpcUiExample\\GrpcUiExample\\protos\\user.proto",
+              "RelativeDocumentMoniker": "GrpcUiExample\\protos\\user.proto",
+              "ToolTip": "C:\\Users\\Waheed\\source\\repos\\GrpcUiExample\\GrpcUiExample\\protos\\user.proto",
+              "RelativeToolTip": "GrpcUiExample\\protos\\user.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-01-08T06:10:41.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "greet.proto",
+              "DocumentMoniker": "C:\\Users\\Waheed\\source\\repos\\GrpcUiExample\\GrpcUiExample\\protos\\greet.proto",
+              "RelativeDocumentMoniker": "GrpcUiExample\\protos\\greet.proto",
+              "ToolTip": "C:\\Users\\Waheed\\source\\repos\\GrpcUiExample\\GrpcUiExample\\protos\\greet.proto",
+              "RelativeToolTip": "GrpcUiExample\\protos\\greet.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-01-01T10:03:02.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Waheed\\source\\repos\\GrpcUiExample\\GrpcUiExample\\Program.cs",
+              "RelativeDocumentMoniker": "GrpcUiExample\\Program.cs",
+              "ToolTip": "C:\\Users\\Waheed\\source\\repos\\GrpcUiExample\\GrpcUiExample\\Program.cs",
+              "RelativeToolTip": "GrpcUiExample\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T06:32:43.295Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
